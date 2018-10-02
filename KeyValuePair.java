@@ -92,3 +92,4 @@ public class KeyValuePair<T, U> {
 		return Integer.valueOf(Integer.toString(key.hashCode()) + Integer.toString(value.hashCode()));
 	}
 }
+//Ending comment added for new commit
